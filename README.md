@@ -109,9 +109,9 @@
 
 ## 🧩 Featured Projects
 
-🔧 **[Project 1](#)** — A Django REST API for [describe what it does]
+🔧 **[Project 1](#)** — 
 🌐 **[Project 2](#)** — Full-stack Django web app with authentication and dashboards
-🤖 **[Project 3](#)** — Python automation script for [describe]
+🤖 **[Project 3](#)** — Python automation script 
 
 ---
 
