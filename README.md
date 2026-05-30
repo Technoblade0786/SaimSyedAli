@@ -24,7 +24,7 @@
 🌐 **Backend Focus:** Database design, authentication, API development, and deployment
 🧠 **Problem Solver:** I love turning complex problems into clean, maintainable code
 ⚡ **Currently Working On:** Django REST Framework projects and backend architecture
-📧 **Reach me at:** your.email@example.com
+📧 **Reach me at:** saimsyedali942@gmaile.com
 💬 **Discord:** `saim_syed`
 
 ---
@@ -32,18 +32,16 @@
 ## 🧠 Technical Expertise
 
 ### 🚀 Languages
-🐍 Python | 🌐 HTML/CSS | 🗃️ SQL | ☕ JavaScript (basics)
+🐍 Python/Django | 🌐 HTML/CSS | 🗃️ SQL | ☕ JavaScript (basics)
 
 ### 🧩 Frameworks & Libraries
 - **Web Framework:** Django, Django REST Framework (DRF)
 - **Database ORM:** Django ORM, SQLAlchemy
-- **Task Queue:** Celery + Redis
-- **Authentication:** JWT, Django Allauth, OAuth2
+- **Authentication:** JWT, Django Allauth, 
 - **Testing:** Pytest, Django TestCase
 
 ### 📊 Databases & Tools
 - **Relational:** PostgreSQL, MySQL, SQLite
-- **Caching:** Redis
 - **ORM:** Django ORM
 
 ### 🧰 DevOps & Tools
