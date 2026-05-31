@@ -3,14 +3,11 @@
 
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=FF6FD8&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Saim+Syed+Ali
-    +👋;Python+%26+Django+Developer+🐍;Building+Scalable+Web+Apps+🚀;Always+Learning%2C+Always+Growing+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=FF6FD8&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Saim+Syed+Ali+👋;Python+%26+Django+Developer+🐍;Building+Scalable+Web+Apps+🚀;Always+Learning%2C+Always+Growing+💡" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNpbXNpcGN2ZjF2MWc4OGF2YWFvNjJmZ3Z6ZDFnM2ZoaW91NjNsdmV5MCZlbD12MV9naWZzX3NlYXJjaF9naWZzX3NlYXJjaF9naWZzX3NlYXJjaF9naWZzX3NlYXJjaA/qgQUggAC3Pf0Xqn/giphy.gif" width="400" alt="coding gif"/>
 </p>
-
 ---
 
 # 👋 Hey there, I'm Saim Syed Ali
