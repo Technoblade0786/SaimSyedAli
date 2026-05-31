@@ -3,7 +3,7 @@
 
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=FF6FD8&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Saim+Syed+Ali+👋;Python+%26+Django+Developer+🐍;Building+Scalable+Web+Apps+🚀;Always+Learning%2C+Always+Growing+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=FF6FD8&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Saim+Syed+Ali AKA Technoblade0786+👋;Python+%26+Django+Developer+🐍;Building+Scalable+Web+Apps+🚀;Always+Learning%2C+Always+Growing+💡" alt="Typing SVG" />
 </p>
 
 <p align="center">
