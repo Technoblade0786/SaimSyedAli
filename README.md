@@ -1,4 +1,4 @@
-# SaimSyedAli
+# Saim Syed Ali  ( Technoblade0786 )
 
 
 <!-- Typing SVG Header -->
@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNpbXNpcGN2ZjF2MWc4OGF2YWFvNjJmZ3Z6ZDFnM2ZoaW91NjNsdmV5MCZlbD12MV9naWZzX3NlYXJjaF9naWZzX3NlYXJjaF9naWZzX3NlYXJjaF9naWZzX3NlYXJjaA/qgQUggAC3Pf0Xqn/giphy.gif" width="400" alt="coding gif"/>
 </p>
----
+
 
 # 👋 Hey there, I'm Saim Syed Ali
 
